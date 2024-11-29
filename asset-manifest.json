@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/social_media_post_full_stack_react_project/static/css/main.3393f62e.css",
+    "main.js": "/social_media_post_full_stack_react_project/static/js/main.44413ec9.js",
+    "index.html": "/social_media_post_full_stack_react_project/index.html",
+    "main.3393f62e.css.map": "/social_media_post_full_stack_react_project/static/css/main.3393f62e.css.map",
+    "main.44413ec9.js.map": "/social_media_post_full_stack_react_project/static/js/main.44413ec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3393f62e.css",
+    "static/js/main.44413ec9.js"
+  ]
+}
